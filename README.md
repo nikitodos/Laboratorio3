@@ -1,4 +1,5 @@
-# UniPV - Proff. L. Andreani e F. Marabelli - Corso di Laboratorio di Fisica 3
+# UniPV - Corso di Laboratorio di Fisica 3
+## Proff. L. Andreani e F. Marabelli - A.A. 2022-23
 
 Dati dal corso di Laboratorio 3, raccolti da Giovanni D'Aloisio, Aglaia Agnes e Andrea Vacchi.
 
