@@ -1,7 +1,12 @@
-# Laboratorio3
+# Uso delle lenti, focalizzazione e collimazione
+L’esperienza intende familiarizzare con l’uso delle lenti per manipolare e propagare a distanza un fascio luminoso.
 
-Dati dal corso di Laboratorio 3, raccolti da Giovanni N. D'Aloisio, Aglaia V. Agnes e Andrea Vacchi.
+1. Senza lenti, misurare l’intensità della luce prodotta da una sorgente (LED) in funzione della distanza;
+2. Usare una lente per rifocalizzare il fascio verificando l’applicazione della legge valida per le lenti sottili;
+3. Porsi ad una distanza tra due lenti fissa e relativamente grande (es. 50 cm) e ottimizzare le distanze LED-lente1 e lente2-fotodiodo. Quindi, mantenendo le distanze ottimizzate, variare la distanza tra le lenti e registrare le intensità in funzione di questa.
 
-Sono divisi in cartelle di GitHub, in modo da poter importare direttamente in Colab i (numerosissimi) dati raccolti ed evitare che in caso di run degli snippets di Python si debbano reinserire i dati dal proprio PC o da Google Drive.
+Vengono sempre usati un LED verde e lenti con focale 5 cm.
 
-Buona visualizzazione.
+Parte 1 - Tensione LED 6 V, con frequenza di modulazione 1 kHz.
+Parte 2 - Tensione LED 6 V, con frequenza di modulazione 1 kHz. In titolo dei file la distanza LED-lente fissata.
+Parte 3 - Distanza tra base del LED e metà lente 4 cm. Distanza tra le lenti 50 cm. 
