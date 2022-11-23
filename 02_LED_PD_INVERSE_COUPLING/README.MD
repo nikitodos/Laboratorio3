@@ -1,6 +1,5 @@
 # Polarizzazione in inversa del fotodiodo
+
 Plottare corrente LED (mA) vs tensione PD (mV) per 0 e -5 V.
 
-R<sub>LED</sub> = resistenza di protezione 500 Ω
-
-R = resistenza di carico da 10-15 kΩ.
+Resistenza di protezione da 500 Ω. Resistenza di carico 20 kΩ.
