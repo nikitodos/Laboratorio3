@@ -8,5 +8,7 @@ L’esperienza intende familiarizzare con l’uso delle lenti per manipolare e p
 Vengono sempre usati un LED verde e lenti con focale 5 cm.
 
 Parte 1 - Tensione LED 6 V, con frequenza di modulazione 1 kHz.
+
 Parte 2 - Tensione LED 6 V, con frequenza di modulazione 1 kHz. In titolo dei file la distanza LED-lente fissata.
+
 Parte 3 - Distanza tra base del LED e metà lente 4 cm. Distanza tra le lenti 50 cm. 
