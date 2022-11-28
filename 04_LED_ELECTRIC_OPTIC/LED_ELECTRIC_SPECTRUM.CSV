@@ -1,6 +1,4 @@
-Diode,Red,Yellow,Green,Blue,White,Si photodiode
-Current,Voltage,Voltage,Voltage,Voltage,Voltage,Voltage
-(mA),(V),(V),(V),(V),(V),(V)
+Diode Current (mA),Red Voltage(V),Yellow Voltage (V),Green Voltage (V),Blue Voltage (V),White Voltage (V),PD Voltage (V)
 0.01,1.46,1.66,2.292,2.386,2.426,0.3483
 0.02,1.49,1.688,2.339,2.428,2.456,0.3736
 0.04,1.52,1.717,2.387,2.471,2.484,0.4006
