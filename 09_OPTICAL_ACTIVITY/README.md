@@ -1,0 +1,1 @@
+# Effetti di sfasamento e attività ottica

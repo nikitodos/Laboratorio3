@@ -1,0 +1,1 @@
+# Luce polarizzata: legge di Maalus e lamine di ritardo
