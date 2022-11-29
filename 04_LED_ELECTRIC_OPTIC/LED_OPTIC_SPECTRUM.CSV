@@ -1,5 +1,4 @@
-,Red,Yellow,Green ,Blue,IR diode,White
-λ (nm),V (mV),V (mV),V (mV),V (mV),V (mV),V (mV)
+λ (nm),Red V (mV),Yellow V (mV),Green V (mV),Blue V (mV),IR diode V (mV),White V (mV)
 380,0.3,0.2,0.3,7.2,0.3,11.5
 390,0.3,0.2,0.3,13.8,0.3,20.3
 400,0.3,0.2,0.4,23.9,0.3,30.9
