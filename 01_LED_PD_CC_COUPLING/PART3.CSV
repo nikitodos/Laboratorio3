@@ -1,4 +1,4 @@
-microA,mV,microA,mV
+microA@I_LED=10mA,mV@I_LED=10mA,microA@I_LED=120mA,mV@I_LED=120mA
 -54,10.22,-104,0.11
 -53.9,27.4,-103.9,15
 -53.8,68.8,-103.8,40.97
